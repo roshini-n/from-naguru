@@ -29,3 +29,32 @@ Here is a list of some popular eateries, each offering a unique dining experienc
 
 > "Light travels faster than sound. This is why some people appear bright until you hear them speak."
 > *Hari Shankar Noudu*
+
+
+***
+
+## Node.js
+
+##### Description
+
+
+This Node.js code snippet creates a simple Node.js HTTP server that writes a response to the client and listens on port 8080. If it is running, a message will be logged stating "server running on port 8080".
+
+
+```const http = require('http');
+
+http.createServer((request, response) => {
+
+	response.writeHead(200, {
+		'Content-Type': 'text/plain'
+	});
+	response.write('Hello from Pieces!');
+	response.end();
+
+}).listen(8080);
+
+console.log('server running on port 8080'); 
+
+```
+
+[Here you can find about Node.js](https://code.pieces.app/collections/node-js)
