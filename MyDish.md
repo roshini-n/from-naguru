@@ -6,7 +6,7 @@ One of my favorite foods is dosa. It has Crispy Texture and Flavor The outer lay
 
 ![My favv dish](https://i1.wp.com/www.evergreendishes.com/wp-content/uploads/2019/10/Dosa-1.jpg?fit=4288%2C2848&ssl=1)
 
-*******8
+*******
 
 
 ## Restaurants
