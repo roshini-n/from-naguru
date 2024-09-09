@@ -19,3 +19,13 @@ Here is a list of some popular eateries, each offering a unique dining experienc
 | Moosapet Mandi Valla      | Great Ambience                                       | Moosapet         |
 | Chillies                  | Authentic Indian dishes                              | Midtown          |
 | Taco Fiesta               | Delicious tacos with fast service                    | Market Square    |
+
+******
+
+## Humorous Quotes
+
+> "Why don't scientists trust atoms? Because they make up everything!"
+> *Alan Dundes*
+
+> "Light travels faster than sound. This is why some people appear bright until you hear them speak."
+> *Hari Shankar Noudu*
