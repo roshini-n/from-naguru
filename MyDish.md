@@ -6,3 +6,16 @@ One of my favorite foods is dosa. It has Crispy Texture and Flavor The outer lay
 
 ![My favv dish](https://i1.wp.com/www.evergreendishes.com/wp-content/uploads/2019/10/Dosa-1.jpg?fit=4288%2C2848&ssl=1)
 
+*******
+
+
+## Restaurants
+
+Here is a list of some popular eateries, each offering a unique dining experience.
+
+| Restaurant Name           | Reason to Recommend                                  | Location         |
+|---------------------------|------------------------------------------------------|------------------|
+| The sweet Point           | Once you visit this place u will love it             | Banjara Hills    |
+| Moosapet Mandi Valla      | Great Ambience                                       | Moosapet         |
+| Chillies                  | Authentic Indian dishes                              | Midtown          |
+| Taco Fiesta               | Delicious tacos with fast service                    | Market Square    |
